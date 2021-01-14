@@ -874,5 +874,5 @@ html[lang] .summary #summary {
 ###### Contact
 - [<i class="fa fa-github"></i>@IepIweidieng](https://github.com/IepIweidieng) [target=_blank]
 - [<i class="fa fa-codepen"></i>@IID](https://codepen.io/IID) [target=_blank]
-- [<i class="fa fa-facebook-official"></i>@IepIweidieng](https://www.facebook.com/IepIweidieng) [target=_blank]
+- [<i class="fa fa-facebook-official"></i>@IepIweidieng](https://fb.me/IepIweidieng) [target=_blank]
 - [<i class="fa fa-envelope"></i>mail to me](mailto:iid@ccns.ncku.edu.tw) [target=_blank]
